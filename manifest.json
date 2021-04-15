@@ -5,15 +5,15 @@
     "default_locale": "en",
     "description": "__MSG_description__",
     "developer": {
-        "name": "TBK",
-        "url": "https://github.com/TBK/qwant"
+        "name": "hargup",
+        "url": "hargup/neera_default_search_extension"
     },
     "chrome_settings_overrides": {
         "search_provider": {
-            "name": "Qwant",
+            "name": "Neera",
             "keyword": "q",
-            "search_url": "https://www.qwant.com/?b=0&q={searchTerms}",
-            "favicon_url": "https://www.qwant.com/favicon.ico",
+            "search_url": "https://neera.ai/&q={searchTerms}",
+            "favicon_url": "https://neera.ai/favicon.ico",
             "suggest_url": "https://api.qwant.com/api/suggest/?q={searchTerms}&client=opensearch&lang=__MSG_locale__",
             "is_default": true
         }
