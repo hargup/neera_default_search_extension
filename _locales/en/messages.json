@@ -3,12 +3,12 @@
         "message" : "en_us"
     },
     "name": {
-      "message": "Qwant - Search Engine",
+      "message": "Neera: One Search to rule them all",
       "description": "Name of the extension."
     },
   
     "description": {
-      "message": "Adds Qwant as the default search engine without any additional fluff",
+      "message": "Adds Neera as the default search engine without any additional fluff",
       "description": "Description of the extension."
     }
 }
